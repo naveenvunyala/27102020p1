@@ -7,6 +7,6 @@
        b = 30;
        c  = 20;
 
-       System.out.println(The sum of three no+"c");
+       System.out.println("The sum of three no"+c);
    }
 }
